@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <attr name="flakeCount" format="integer"/>
+    <attr name="minSize" format="integer"/>
+    <attr name="maxSize" format="integer"/>
+    <attr name="flakeSrc" format="reference|integer"/>
+    <attr name="speedX" format="integer"/>
+    <attr name="speedY" format="integer"/>
+
+    <declare-styleable name="Snow">
+        <attr name="flakeCount"/>
+        <attr name="minSize"/>
+        <attr name="maxSize"/>
+        <attr name="flakeSrc"/>
+        <attr name="speedX"/>
+        <attr name="speedY"/>
+    </declare-styleable>
+</resources>
